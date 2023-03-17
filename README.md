@@ -1,5 +1,8 @@
 # Ligand_binding_RF
 
+## ChatGPT Generated Code
+
+
     import numpy as np
     import pandas as pd
     from sklearn.ensemble import RandomForestRegressor
